@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Interactive pricing component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main>
+
+    <div class="header-container">
+
+      <h1>Simple, traffic-based pricing</h1>
+      <p>Sign-up for our 30-day trial. No credit card required.</p>
+
+    </div>
+
+    <section>
+
+      <div class="view-container">
+
+        <p class="page-views">
+          <span id="page-views">
+
+          </span> Pageviews
+        </p>
+
+        <p><span id="amount" class="amount"></span> /month</p>
+
+      </div>
+
+
+  
+
+
+      <div class="wrap">
+
+        <input type="range" class="range" min="0" max="100" class="slider" id="myRange" step="0.1" value="0">
+
+        <div class="track">
+
+          <div class="track-inner">
+
+          </div>
+
+        </div>
+
+        <div class="thumb"></div>
+
+      </div>
+
+      <div class="choice-div">
+
+        <p class="monthly">Monthly Billing</p>
+
+
+        <label class="switch">
+          <input onclick="" class="switcher" type="checkbox">
+          <span class="sliders round"></span>
+        </label>
+
+        <p class="yearly">Yearly Billing</p>
+
+        <p class="discount">25% discount</p>
+
+      </div>
+
+      <hr class="hr">
+
+      <div class="bottom-row">
+
+        <ul class="">
+
+          <li> Unlimited websites </li>
+          <li> 100% data ownership</li>
+          <li> Email reports</li>
+
+        </ul>
+
+        <a class="btn" href="">Start my trial</a>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="https://www.scriptsandtags.com/">Seun Ogundele</a>.
+  </div>
+
+  <script src="scripts.js"></script>
+
+</body>
+
+</html>
