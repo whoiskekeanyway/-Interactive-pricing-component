@@ -57,7 +57,7 @@ function useSlider() {
     } else if (this.value == 60 || this.value <= 60) {
       pricePerMonth = 16;
       pageViews = 100;
-      output.innerHTML = "$" + pricePerMonth    ;
+      output.innerHTML = "$" + pricePerMonth   + ".00";    ;
       pageviews.innerHTML = pageViews + "K";
     } else if (this.value == 80 || this.value <= 80) {
       pricePerMonth = 24;
