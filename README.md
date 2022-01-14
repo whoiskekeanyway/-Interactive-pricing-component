@@ -1,4 +1,4 @@
-# Frontend Mentor - Coding bootcamp testimonials slider solution
+# Frontend Mentor - Interactive pricing component solution
 
 This is a solution to the [Coding bootcamp testimonials slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-HN5rRWM6z](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-HN5rRWM6z)
-- Live Site URL: [coding-bootcamp-sliders.netlify.app](coding-bootcamp-sliders.netlify.app)
+- Live Site URL: [https://flamboyant-goldstine-c0bc06.netlify.app/](https://flamboyant-goldstine-c0bc06.netlify.app/)
 
 ## My process
 
